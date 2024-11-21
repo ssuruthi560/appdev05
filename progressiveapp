@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+        <link rel="stylesheet" href="style.css">
+        <link rel="manifest" href="manifest.json">
+        <title>casadingstyle</title>
+    </head>
+    <body>
+        <h1> Earth</h1>
+        <h2 style="color:rgb(47, 51, 79)">
+            <a href="C:\Users\HP\Documents\HTML\colourful world.jpeg">Colourful World</a>
+            </h2>
+        <h3>Live in the moment</h3>
+        <p>We can see the beauty of Nature.</p>
+        <p>This is a simple progressive web app.</p>
+        <center><img src="chennai.jpg"></center>
+        <script src="app.js"></script>
+        <iframe src="https://www.flipkart.com/"></iframe>
+    </body>
+</html>
+
